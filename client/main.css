@@ -1,0 +1,8 @@
+body {
+  padding: 0px;
+  margin: 0px;
+  font-family: sans-serif;
+}
+
+.classTitle{flex-grow: 1}
+.topBar a{color:#fff !important; text-decoration: none !important;}
